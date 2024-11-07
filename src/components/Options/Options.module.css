@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    gap:10px;
+    margin-bottom: 16px;
+}
+
+.button {
+    color: black;
+    background-color: lightgray;
+    border-radius: 4px;
+    border: 1px solid black;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
